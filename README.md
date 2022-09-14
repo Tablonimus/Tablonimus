@@ -11,7 +11,6 @@ I studied business administration after high school, trained as a sales supervis
 My goal is to work on a really useful idea and to be able to develop a different contribution to the contemporary.
 
 You can contact me by the following means:
-GitHub: https://github.com/Tablonimus
 Email: lautamartin1995@gmail.com
 Phone: +54 9 261-259-3391 (Mendoza, Argentina)
 
