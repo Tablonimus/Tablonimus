@@ -1,5 +1,19 @@
 # 💫 About Me:
-Im looking for new oportunities
+Full-Stack developer with Front-End orientation.
+
+I like solving challenges and being able to learn from them. I consider myself persevering and motivated.
+It is good to be in a place where colleagues have the same desire to progress and as a team achieve great things.
+
+At this moment I am looking for my first IT job with the aim of developing myself professionally and reinforcing the skills I have acquired.
+
+I studied business administration after high school, trained as a sales supervisor and worked on freelance projects until recently, where I finally decided to study web programming. Within the tools that the university gave me and the experience in my previous ventures, I learned to have effective communication with my peers, lead result-oriented work teams and promote good work habits.
+
+My goal is to work on a really useful idea and to be able to develop a different contribution to the contemporary.
+
+You can contact me by the following means:
+GitHub: https://github.com/Tablonimus
+Email: lautamartin1995@gmail.com
+Phone: +54 9 261-259-3391 (Mendoza, Argentina)
 
 
 # 💻 Tech Stack:
