@@ -1,18 +1,22 @@
 # 💫 About Me:
 Full-Stack developer with Front-End orientation.
 
-I like solving challenges and being able to learn from them. I consider myself persevering and motivated.
+I like solving challenges and being able to learn from them. Within the work team I guarantee tenacity and cooperation. I am able to create, design or adapt to a project.
+
+As a child I was very curious about technology, today I am enthusiastic about development and thanks to everything I have learned lately, I am happy to have the opportunity to work in the sector that I am passionate about.
+
 It is good to be in a place where colleagues have the same desire to progress and as a team achieve great things.
 
-At this moment I am looking for my first IT job with the aim of developing myself professionally and reinforcing the skills I have acquired.
+At this moment I am looking for my first IT job with the aim of developing myself professionally and reinforcing the skills I currently work with: Javascript ,Express , SQL, Sequelize, PostgreSQL, MongoDB, Mongoose, Node Js, React Js, Redux, HTML, CSS, Tailwind Css.
 
-I studied business administration after high school, trained as a sales supervisor and worked on freelance projects until recently, where I finally decided to study web programming. Within the tools that the university gave me and the experience in my previous ventures, I learned to have effective communication with my peers, lead result-oriented work teams and promote good work habits.
+Among the tools that my experience in my ventures and studies gave me, I learned to communicate effectively with my peers, lead result-oriented work teams, and promote good work habits.
 
 My goal is to work on a really useful idea and to be able to develop a different contribution to the contemporary.
 
 You can contact me by the following means:
 Email: lautamartin1995@gmail.com
 Phone: +54 9 261-259-3391 (Mendoza, Argentina)
+
 
 
 # 💻 Tech Stack:
