@@ -7,7 +7,7 @@ As a child I was very curious about technology, today I am enthusiastic about de
 
 It is good to be in a place where colleagues have the same desire to progress and as a team achieve great things.
 
-At this moment I am looking for my first IT job with the aim of developing myself professionally and reinforcing the skills I currently work with: Javascript ,Express , SQL, Sequelize, PostgreSQL, MongoDB, Mongoose, Node Js, React Js, Redux, HTML, CSS, Tailwind Css.
+I continue with the goal of developing myself professionally and reinforcing my skills in the technologies I work with: Javascript, Express, SQL, Sequelize, PostgreSQL, MongoDB, Mongoose, Node Js, React Js, Redux, HTML, CSS, Tailwind Css.
 
 Among the tools that my experience in my ventures and studies gave me, I learned to communicate effectively with my peers, lead result-oriented work teams, and promote good work habits.
 
@@ -16,6 +16,7 @@ My goal is to work on a really useful idea and to be able to develop a different
 You can contact me by the following means:
 Email: lautamartin1995@gmail.com
 Phone: +54 9 261-259-3391 (Mendoza, Argentina)
+GitHub: https://github.com/Tablonimus
 
 
 
